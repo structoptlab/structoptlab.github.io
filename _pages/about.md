@@ -28,9 +28,6 @@ Our team is engaged in research on structural CAD/CAE technologies, isogeometric
 		</td>
 	</tr>
 </table>
-                        
-#![Isogeometric topology optimization](/images/ITO-example.jpg)
-#![ITO software](/images/ITO-software.jpg) 
 
 Lab openings
 ======
