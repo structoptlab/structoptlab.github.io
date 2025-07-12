@@ -10,6 +10,8 @@ redirect_from:
 Welcome to the Structural Optimization Lab!
 Our team is engaged in research on structural CAD/CAE technologies, isogeometric analysis, topology optimization, multiscale structural optimization, and CPU/GPU high-performance numerical computing. We are committed to developing an independent, performance/function-driven adaptive generative design platform, enabling efficient and high-quality integrated design of product structures.
 
+![Isogeometric topology optimization](/images/ITO-example.jpg)
+
 Lab openings
 ======
 We are seeking highly motivated researchers (Postdoc/PhD/Master/Undergraduate) with backgrounds in mechanical engineering, mechanics, computer science, CAD/CAE, or related fields. Our lab focuses on structral optimization, intelligent algorithm development, and CAD/CAE integration, offering collaboration opportunities with world-leading institutions (UCSD, McGill University, etc.)
