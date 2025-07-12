@@ -10,13 +10,27 @@ redirect_from:
 Welcome to the Structural Optimization Lab!
 Our team is engaged in research on structural CAD/CAE technologies, isogeometric analysis, topology optimization, multiscale structural optimization, and CPU/GPU high-performance numerical computing. We are committed to developing an independent, performance/function-driven adaptive generative design platform, enabling efficient and high-quality integrated design of product structures.
 
-<figure class="half">
-    <img src="https://github.com/structoptlab/structoptlab.github.io/blob/master/images/ITO-example.jpg"><img src="https://github.com/structoptlab/structoptlab.github.io/blob/master/images/ITO-software.jpg"> 
-</figure>
-
+<table rules="none" align="center">
+	<tr>
+		<td>
+			<center>
+				<img src="/images/ITO-example.jpg" width="100%" />
+				<br/>
+				<font color="AAAAAA">ITO-example</font>
+			</center>
+		</td>
+		<td>
+			<center>
+				<img src="/images/ITO-software.jpg" width="100%" />
+				<br/>
+				<font color="AAAAAA">ITO-software</font>
+			</center>
+		</td>
+	</tr>
+</table>
+                        
 #![Isogeometric topology optimization](/images/ITO-example.jpg)
 #![ITO software](/images/ITO-software.jpg) 
-
 
 Lab openings
 ======
