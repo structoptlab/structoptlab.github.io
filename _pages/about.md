@@ -15,7 +15,7 @@ Lab openings
 We are seeking highly motivated researchers (Postdoc/PhD/Master/Undergraduate) with backgrounds in mechanical engineering, mechanics, computer science, CAD/CAE, or related fields. Our lab focuses on structral optimization, intelligent algorithm development, and CAD/CAE integration, offering collaboration opportunities with world-leading institutions (UCSD, McGill University, etc.)
 
 **Postdocs:** Email CV + 3 references + 5-slide research summary to wangyj84@scut.edu.cn
-**Students:** Email CV + transcript to wangyj84@scut.edu.cn
+**Students:** Email CV + transcript to wangyj84@scut.edu.cn  
 **Preferred skills:**
 1. Topalogy aptimization / FEA / Programming (MATLAB/Pythan/C++)
 2. Experience in industrial saftware or additive manufacturing
