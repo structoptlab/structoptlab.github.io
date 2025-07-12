@@ -17,7 +17,7 @@ We are seeking highly motivated researchers (Postdoc/PhD/Master/Undergraduate) w
 **Postdocs:** Email CV + 3 references + 5-slide research summary to wangyj84@scut.edu.cn
 **Students:** Email CV + transcript to wangyj84@scut.edu.cn  
 **Preferred skills:**
-1. Topalogy aptimization / FEA / Programming (MATLAB/Pythan/C++)
+1. Topology aptimization / IGA / FEA / CAD/CAE /Programming (MATLAB/Pythan/C++)
 2. Experience in industrial saftware or additive manufacturing
 
 Recent News
