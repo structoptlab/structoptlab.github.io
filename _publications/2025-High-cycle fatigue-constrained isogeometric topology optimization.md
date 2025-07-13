@@ -1,5 +1,5 @@
 ---
-title: "2025-High-cycle fatigue-constrained isogeometric topology optimization"
+title: "High-cycle fatigue-constrained isogeometric topology optimization"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-High-cycle fatigue-constrained isogeometric topology optimization
