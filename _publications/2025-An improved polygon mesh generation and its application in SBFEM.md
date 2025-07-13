@@ -3,8 +3,7 @@ title: "An efficient parametric modeling and path planning method for 3D printin
 collection: publications
 category: manuscripts
 permalink: /publication/2025-An improved polygon mesh generation and its application in SBFEM
-excerpt: 'Xinqing Li, Hailiang Su, Yingjun Wang,
-          _Computational Mechanics_'
+excerpt: 'Xinqing Li, Hailiang Su, Yingjun Wang, _Computational Mechanics_'
 date: 2025
 paperurl: 'http://structoptlab.github.io/files/2025-An improved polygon mesh generation and its application in SBFEM.pdf'
 ---
