@@ -11,35 +11,35 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Mechanical Design and Theory, Huazhong University of Science and Technology, 2013
+* M.S. in Vehicle Engineering, Huazhong University of Science and Technology, 2009
+* B.S. in Vehicle Engineering, South China University of Technology, 2007
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2016.9-present: Associate Professor/Professor (from 2022.9)
+  * School of Mechanical and Automotive Engineering,
+  * South China University of Technology
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2015.8-2016.9: Postdoctoral Fellow
+  * Department of Mechanical Engineering, 
+  * McGill University
+  * Supervisor: Damiano Pasini
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2013.9-2015.7: Postdoctoral Fellow
+  * Department of Structural Engineering, 
+  * University of California, San Diego
+  * Supervisor: David J. Benson
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Topology optimization
+* CAD/CAE
+  * Isogeometric analysis
+  * Finite element method
+  * Boundary element method
+  * Computational geometry
+* CPU/GPU pararallel computing
 
 Publications
 ======
