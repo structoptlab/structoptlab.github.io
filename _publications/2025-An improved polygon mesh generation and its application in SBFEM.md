@@ -1,5 +1,5 @@
 ---
-title: "An efficient parametric modeling and path planning method for 3D printing of curved surface corrugated sandwich structures"
+title: "An improved polygon mesh generation and its application in SBFEM using NURBS boundary"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-An improved polygon mesh generation and its application in SBFEM
