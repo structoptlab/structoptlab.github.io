@@ -222,7 +222,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  members:
+  Portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -268,10 +268,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _members
+  # _Portfolio
   - scope:
       path: ""
-      type: members
+      type: Portfolio
     values:
       layout: single
       author_profile: true
