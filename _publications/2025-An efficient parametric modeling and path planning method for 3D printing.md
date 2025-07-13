@@ -3,8 +3,7 @@ title: "An efficient parametric modeling and path planning method for 3D printin
 collection: publications
 category: manuscripts
 permalink: /publication/2025-An efficient parametric modeling and path planning method for 3D printing
-excerpt: 'Tan Gui, Zhihong Li, Yongjun Cao, Jianghong Yang, Yingjun Wang,
-          _Graphical Models_'
+excerpt: 'Tan Gui, Zhihong Li, Yongjun Cao, Jianghong Yang, Yingjun Wang, _Graphical Models_'
 date: 2025
 paperurl: 'http://structoptlab.github.io/files/2025-An efficient parametric modeling and path planning method for 3D printing.pdf'
 ---
