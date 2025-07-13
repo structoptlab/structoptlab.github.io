@@ -13,7 +13,7 @@ Our team is engaged in research on structural CAD/CAE technologies, isogeometric
 ![Isogeometric topology optimization](/images/ITO-example.jpg)  Isogeometric topology optimization (ITO)  
 ![ITO software](/images/ITO-software.jpg)  ITO software  
 
-Lab openings
+Lab Openings
 ======
 We are seeking highly motivated researchers (Postdoc/PhD/Master/Undergraduate) with backgrounds in mechanical engineering, mechanics, computer science, CAD/CAE, or related fields. Our lab focuses on structral optimization, intelligent algorithm development, and CAD/CAE integration, offering collaboration opportunities with world-leading institutions (UCSD, McGill University, etc.)
 
