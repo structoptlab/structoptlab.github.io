@@ -1,6 +1,6 @@
 ---
 title: "Master Students"
-excerpt: "2025：Wenhui Han, Xiwen Zhang, Quanjiong Yan <br>
+excerpt: "2025: Wenhui Han, Xiwen Zhang, Quanjiong Yan <br>
           2024: Jiale Pei, Haopeng Gu, Tianqi Wang, Yuanlin Zhang, Da Xu <br>
           2023: Zihan Liu, Jingqi Yang, Yongjun Cao(PhD) <br>
           2022: Guifeng Gao(graduated), Tan Gui(graduated), Shijie Luo(graduated) <br>
