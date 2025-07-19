@@ -20,10 +20,10 @@ author_profile: true
         {% continue %}
       {% endif %}
       {% unless title_shown %}
-       <img src="http://news.hust.edu.cn/__local/9/B8/A4/B302FC4A91CCA1BC684B57D67B7_C652641E_5E9DE.jpg" alt="PDF"></img> <h2>{{ category[1].title }}</h2><hr />
+       <h2>{{ category[1].title }}</h2><hr />
         {% assign title_shown = true %}
       {% endunless %}
-      {% include archive-single.html %}
+    <img src="http://news.hust.edu.cn/__local/9/B8/A4/B302FC4A91CCA1BC684B57D67B7_C652641E_5E9DE.jpg" alt="PDF"></img>   {% include archive-single.html %}
     {% endfor %}
   {% endfor %}
 {% else %}
